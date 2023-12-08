@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">xdd</string>
+    <string name="about_hotel">About Hotel</string>
+    <string name="hotel">Hotel</string>
+    <string name="essentials">Essentials</string>
+    <string name="what_s_not_included">What\'s not included</string>
+    <string name="division">______________________________________________________</string>
+    <string name="what_s_included">What\'s included</string>
+    <string name="button_more_information">Узнать подробнее</string>
+    <string name="Hotel_name">Steigenberger Makadi</string>
+    <string name="where_hotel_is">Madinat Makadi, Safaga Road, Makadi Bay, Египет</string>
+    <string name="price_hotel">от 134 673 ₽</string>
+    <string name="price_hotel2">за тур с перелётом</string>
+    <string name="fivestarperfect">5 Превосходно</string>
+    <string name="_3rd_line">3rd Line</string>
+    <string name="WiFi">paid Wi-Fi in the lobby</string>
+    <string name="distanceairport">30km to the airport</string>
+    <string name="distancebeach">1km to the beach</string>
+    <string name="descriptionhotel">VIP-class hotel with its own golf courses. High level of service. We recommend it for a respectable holiday. The hotel accepts guests over 18 years of age!</string>
+    <string name="button_choose_room">К выбору номера</string>
+    <string name="descriptionhotel2">Standard with pool and garden view</string>
+    <string name="all_included">All included</string>
+    <string name="air_conditioner">Air conditioner</string>
+    <string name="moreinformation">Подробнее о номере</string>
+    <string name="pricehotel2">186 600 $</string>
+    <string name="forwhat">For 7 nights with flights</string>
+    <string name="choose_a_room">Choose a room</string>
+</resources>
