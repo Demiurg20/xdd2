@@ -58,4 +58,8 @@
     <string name="total_price">198 036$</string>
     <string name="total_pay_button">Pay 198 036$</string>
     <string name="validity_of_int_passport">Validity of Int. passport</string>
+    <string name="confirmation_order">Confirmation of order No. 104893 may take some time (from 1 hour to 24 hours). As soon as we receive a response from the tour operator, you will receive a notification by email.</string>
+    <string name="paid_order">The order has been paid!</string>
+    <string name="proccesed_order">Your order has been proccesed</string>
+    <string name="button_great">Great!</string>
 </resources>
