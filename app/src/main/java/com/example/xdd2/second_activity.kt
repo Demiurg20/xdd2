@@ -12,7 +12,7 @@ class second_activity : AppCompatActivity() {
     }
 
     fun onClickGoMain(view : View) {
-        val intent = Intent(this, MainActivity::class.java)
+        val intent = Intent(this, thirdActivity::class.java)
         startActivity(intent)
     }
 }
