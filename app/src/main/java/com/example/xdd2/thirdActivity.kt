@@ -15,4 +15,9 @@ class thirdActivity : AppCompatActivity() {
         val intent = Intent(this, FourthActivity::class.java)
         startActivity(intent)
     }
+
+    fun onClickGoMain2(view : View) {
+        val intent = Intent(this, second_activity::class.java)
+        startActivity(intent)
+    }
 }

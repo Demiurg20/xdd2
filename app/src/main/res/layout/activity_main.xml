@@ -9,6 +9,8 @@
 
 
 
+
+
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -55,6 +57,7 @@
                     android:id="@+id/imageView"
                     android:layout_width="366dp"
                     android:layout_height="307dp"
+                    android:contentDescription="@string/hotel"
                     android:layout_marginTop="4dp"
                     android:background="@drawable/hotel"
                     app:layout_constraintEnd_toEndOf="parent"
@@ -131,6 +134,7 @@
                         android:layout_width="18dp"
                         android:layout_height="18dp"
                         android:layout_marginStart="2dp"
+                        android:contentDescription="@string/fivestarperfect"
                         android:background="@drawable/ic_star"
                         android:backgroundTint="#FFA800" />
 
@@ -142,6 +146,7 @@
                         android:textStyle="bold" />
 
                 </LinearLayout>
+
 
 
             </androidx.constraintlayout.widget.ConstraintLayout>
@@ -256,6 +261,7 @@
                     <ImageView
                         android:layout_width="40dp"
                         android:layout_height="40dp"
+                        android:contentDescription="@string/emojihappy_des"
                         android:layout_marginStart="20dp"
                         android:layout_marginTop="5sp"
                         android:background="@drawable/emojihappy" />
@@ -263,6 +269,7 @@
                     <ImageView
                         android:layout_width="40dp"
                         android:layout_height="40dp"
+                        android:contentDescription="@string/tick_des"
                         android:layout_marginStart="20dp"
                         android:layout_marginTop="75sp"
                         android:background="@drawable/tick" />
@@ -271,6 +278,7 @@
                         android:layout_width="40dp"
                         android:layout_height="40dp"
                         android:layout_marginStart="20dp"
+                        android:contentDescription="@string/square_des"
                         android:layout_marginTop="145sp"
                         android:background="@drawable/closesquare" />
 
@@ -346,6 +354,7 @@
                         android:layout_height="30dp"
                         android:layout_marginStart="310sp"
                         android:layout_marginTop="15dp"
+                        android:contentDescription="@string/bigger_sign_des"
                         android:background="@drawable/biggersign" />
 
                     <ImageView
@@ -353,11 +362,13 @@
                         android:layout_height="30dp"
                         android:layout_marginStart="310dp"
                         android:layout_marginTop="85dp"
+                        android:contentDescription="@string/bigger_sign_des"
                         android:background="@drawable/biggersign" />
 
                     <ImageView
                         android:layout_width="30dp"
                         android:layout_height="30dp"
+                        android:contentDescription="@string/bigger_sign_des"
                         android:layout_marginStart="310dp"
                         android:layout_marginTop="150dp"
                         android:background="@drawable/biggersign" />

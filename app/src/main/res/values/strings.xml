@@ -62,4 +62,8 @@
     <string name="paid_order">The order has been paid!</string>
     <string name="proccesed_order">Your order has been proccesed</string>
     <string name="button_great">Great!</string>
+    <string name="emojihappy_des">emojihappy</string>
+    <string name="tick_des">tick</string>
+    <string name="square_des">square</string>
+    <string name="bigger_sign_des">bigger_sign</string>
 </resources>
